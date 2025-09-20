@@ -1,0 +1,7 @@
+Các tính năng mới 
+
+1. Tính năng cho phép người dùng đăng nhập
+2. Lưu trữ thông tin người
+3. Hỗ trợ xác thực email
+4. Giao diện đẹp mắt, than thiện với người dùng
+5. Bảo mật an toàn 
