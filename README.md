@@ -1,5 +1,9 @@
-Git Final Exam
--MSSV:220328
+#Git Final Exam
+
+- Nguyễn Ngọc Trúc Phương
+- MSSV:220328
 20/09/2025
-Hiểu và thực hành được Git
-Quản lí và làm việc nhóm hiệu quả trên Git
+
+##Mục tiêu
+- Hiểu và thực hành được Git
+- Quản lí và làm việc nhóm hiệu quả trên Git
