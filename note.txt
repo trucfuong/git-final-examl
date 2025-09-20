@@ -1,3 +1,5 @@
 - Git giúp quản lý phiên bản hiệu quả
 - Hỗ trợ làm việc nhóm tốt hơn
 - Ghi lại lịch sử thay đổi rõ ràng
+- Học Git đôi lúc hơi phức tạp
+- Thực hành nhiều sẽ quen hơn 
